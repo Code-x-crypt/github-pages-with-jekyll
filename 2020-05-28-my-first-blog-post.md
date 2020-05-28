@@ -1,2 +1,4 @@
-title: "my-first-blog-post.md"
+---
+title: "my first blog post"
 date: 2020-05-28
+---
